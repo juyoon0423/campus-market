@@ -17,3 +17,6 @@ spring:
     multipart:
       max-file-size: 10MB # 사진 업로드를 위한 설정
       max-request-size: 10MB
+
+file:
+  upload-dir: /Users/bagjuyun/campus_market_uploads/
